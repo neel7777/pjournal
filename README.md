@@ -6,9 +6,10 @@ Serious poker players use such software to keep track of winrates, pay attention
 for taxes, and to flex on friends (lol).
 Motivation for the project came from trying to avoid using IOS apps that have the same functions but cost a monthly fee,
 
-This app contains both front end/back end is still a work in progress.
+This app contains the front end and is a work in progress
 
 To do:
+back end deployment
 authentication with username/password
 standings with profit, hours played, hourly 
 styling stuff
